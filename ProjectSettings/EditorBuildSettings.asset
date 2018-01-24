@@ -4,4 +4,13 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MainMenu.unity
+    guid: 560e10930932a904899afeec24895012
+  - enabled: 1
+    path: Assets/knight defence.unity
+    guid: 50cba748e1b86974396ea9507ded63e7
+  - enabled: 1
+    path: Assets/End Mene.unity
+    guid: b67dea88ac523584db8c28b82f9e731a

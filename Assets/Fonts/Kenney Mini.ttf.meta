@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e18dfbfc7951c8f4ca7eb9f3830384f7
+timeCreated: 1516751217
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kenney Mini
+  fontNames:
+  - Kenney Mini
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
